@@ -1,0 +1,17 @@
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\bin\Debug\net10.0-windows\Cau6.exe
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\bin\Debug\net10.0-windows\Cau6.deps.json
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\bin\Debug\net10.0-windows\Cau6.runtimeconfig.json
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\bin\Debug\net10.0-windows\Cau6.dll
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\bin\Debug\net10.0-windows\Cau6.pdb
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\B6Buoi6.FormChinh.resources
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\B6Buoi6.FormGhiChu.resources
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.csproj.GenerateResource.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.AssemblyInfoInputs.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.AssemblyInfo.cs
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.csproj.CoreCompileInputs.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.dll
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\refint\Cau6.dll
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.pdb
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\Cau6.genruntimeconfig.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau6\B6Buoi6\obj\Debug\net10.0-windows\ref\Cau6.dll

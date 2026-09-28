@@ -1,0 +1,16 @@
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.FormDanhBa.resources
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.csproj.GenerateResource.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.AssemblyInfoInputs.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.AssemblyInfo.cs
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.csproj.CoreCompileInputs.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\bin\Debug\net10.0-windows\Cau4.exe
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\bin\Debug\net10.0-windows\Cau4.deps.json
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\bin\Debug\net10.0-windows\Cau4.runtimeconfig.json
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\bin\Debug\net10.0-windows\Cau4.dll
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\bin\Debug\net10.0-windows\Cau4.pdb
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.dll
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\refint\Cau4.dll
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.pdb
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\Cau4.genruntimeconfig.cache
+C:\Code_Projects\VS\XacThucDuLieu\Cau4\obj\Debug\net10.0-windows\ref\Cau4.dll
